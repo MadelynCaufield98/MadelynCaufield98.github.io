@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Master of Quantitative Economics Projects  
 
-[Project 1 Title](/sample_page)
+[Sustainability Applied Project](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Machine Learning Projects](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Applied Econometrics Projects](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
